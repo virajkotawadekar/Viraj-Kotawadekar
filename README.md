@@ -1,4 +1,4 @@
-# I'm Viraj Rajaram Kotawadekar
+# Viraj Rajaram Kotawadekar
 
 ### Final Year Diploma Student in Computer Engineering | Aspiring Software Developer
 
@@ -18,13 +18,14 @@ I am a passionate and dedicated Computer Engineering student with a strong inter
 ### Programming Languages
 
 * Python
-* JavaScript
+* JAVA
 * SQL
 
+  
 ### Web Development
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * Responsive Web Design
 
@@ -36,10 +37,11 @@ I am a passionate and dedicated Computer Engineering student with a strong inter
 
 ### Tools & Technologies
 
-* GitHub
+* Git & GitHub
 * VS Code
-* Pycharm
-* My SQL Shell
+* PyCharm
+* IntelliJ IDEA
+  
 
 ## 📈 Current Learning Focus
 
@@ -74,7 +76,7 @@ To secure an internship or entry-level opportunity where I can apply my technica
 
 📍 Mumbai, Maharashtra, India
 
-💼 LinkedIn: https://github.com/virajkotawadekar
+💼 LinkedIn: www.linkedin.com/in/viraj-kotawadekar-435a44375
 
 📧 Email: virajkotawadekar@gmail.com
 
