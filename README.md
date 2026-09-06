@@ -52,13 +52,14 @@ I am a passionate and dedicated Computer Engineering student with a strong inter
 
 ## 📂 Featured Projects
 
+### 🥜 Dry Fruit E-Commerce Website
+
+A modern and responsive e-commerce website for buying premium dry fruits and healthy snacks online.
+Features include product browsing, search, cart, wishlist, and a seamless shopping experience.
+
 ### Portfolio Website
 
 Personal portfolio showcasing skills, projects, and technical achievements.
-
-### Student Management System
-
-A database-driven application for managing student records efficiently.
 
 ### SQL Database Project
 
